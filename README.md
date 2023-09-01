@@ -1,5 +1,5 @@
 - 👋 Boas vindas! Eu sou a Sarah Oliveira :D
-- ⌨️ Autodidata fascinada por tecnologias e jogos.
+- ⌨️ Análise e Desenvolvimento de Sistemas - UCB
 - 🌱 Desenvolvedora Front-End Júnior!
 - 🙋 Pronomes: Ela/Dela.
 
